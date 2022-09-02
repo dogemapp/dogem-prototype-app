@@ -1,2 +1,2 @@
 # dogem-prototype-app
-A prototype for DogEm's initial login page made with React Native
+Joshua Willson's starter code for DogEm's messaging capability. Made with React Native using React Native CLI. Android compatible.
